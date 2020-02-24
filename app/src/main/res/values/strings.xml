@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Workebase QR Code Scanner</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_scan_history">ScanHistoryActivity</string>
 </resources>
